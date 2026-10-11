@@ -1,0 +1,9 @@
+Year	Title	DOI	arXiv	Citation source	Decision	Code	Reason
+2022	Shifts 2.0: Extending The Dataset of Real Distributional Shifts	10.48550/arXiv.2206.15407	2206.15407	Molchanova2023|backward	Excluded	E5	General method or no brain tumour focus
+2022	Multi-Scale Evaluation of Uncertainty Quantification Techniques for Deep Learning based MRI Segmentation	10.58530/2022/1791		Molchanova2023|backward	Reference (not brain tumour)	E1	Not a brain tumour
+2026	Better than Average: Spatially-Aware Aggregation of Segmentation Uncertainty Improves Downstream Performance	10.48550/arXiv.2603.29941	2603.29941	Molchanova2023|forward	Excluded	E5	General method or no brain tumour focus
+2025	Uncertainty-aware segmentation quality prediction via deep learning Bayesian Modeling: Comprehensive evaluation and interpretation on skin cancer and liver segmentation	10.1016/j.compmedimag.2025.102547	2508.01460	Molchanova2023|forward	Excluded	E5	General method or no brain tumour focus
+2025	The role of trustworthy and reliable AI for multiple sclerosis	10.3389/fdgth.2025.1507159		Molchanova2023|forward	Excluded	E1	Not a brain tumour
+2024	Uncertainty Aware Segmentation Quality Assessment in Medical Images	10.1109/ISBI56570.2024.10635509		Molchanova2023|forward	Excluded	E5	General method or no brain tumour focus
+2024	Soft Dice Confidence: A Near-Optimal Confidence Estimator for Selective Prediction in Semantic Segmentation	10.1007/s10994-026-07096-w	2402.10665	Molchanova2023|forward	Excluded	E5	General method or no brain tumour focus
+2023	Application of uncertainty quantification to artificial intelligence in healthcare: A review of last decade (2013-2023)	10.1016/j.compbiomed.2023.107441		Molchanova2023|forward	Excluded	E5	General method or no brain tumour focus

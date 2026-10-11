@@ -1,0 +1,39 @@
+ID	Year	AI finest unit	Coding route	Source available to the checker	Eligibility	Finest unit	Lesion-level metrics	Lesion-level rules	Size stratification	External validation	Risk method	Handling of missed lesions	Comment
+C0066	2026	Patient	Two passes agreed	Full text or author manuscript	Uncertain	Correct	Uncertain	Uncertain	Correct	Correct	Correct	Correct	
+C0139	2021	Lesion	Two passes agreed	Abstract, record or partial text only	Uncertain	Correct	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+C0182	2024	Lesion	Two passes agreed	Full text or author manuscript	Uncertain	Correct	Correct	Correct	Correct	Correct	Correct	Correct	
+R00007	2026	Image	Arbitrated	Full text or author manuscript	Uncertain	Correct	Correct	Correct	Correct	Correct	Correct	Incorrect	Image-level false negatives (11 images), no lesion-level count
+R00076	2024	Lesion	Two passes agreed	Abstract, record or partial text only	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R00207	2020	Lesion	Two passes agreed	Full text or author manuscript	Uncertain	Correct	Correct	Correct	Correct	Correct	Correct	Correct	
+R00273	2026	Voxel	Arbitrated	Abstract, record or partial text only	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R00303	2026	Voxel	Two passes agreed	Abstract, record or partial text only	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R00390	2023	Patient	Arbitrated	Abstract, record or partial text only	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R00450	2019	Voxel	Arbitrated	Full text or author manuscript	Uncertain	Incorrect	Correct	Correct	Correct	Correct	Correct	Correct	Also evaluates a per-tumour-structure volume coefficient of variation: at least image (3D volume) level
+R00525	2026	Lesion	Two passes agreed	Full text or author manuscript	Uncertain	Correct	Correct	Uncertain	Correct	Correct	Uncertain	Correct	
+R00610	2025	Patient	Arbitrated	Full text or author manuscript	Uncertain	Correct	Correct	Correct	Correct	Uncertain	Correct	Correct	
+R00993	2019	Patient	Two passes agreed	Full text or author manuscript	Uncertain	Correct	Uncertain	Uncertain	Correct	Correct	Correct	Correct	
+R01066	2025	Lesion	Arbitrated	Full text or author manuscript	Uncertain	Correct	Correct	Correct	Correct	Correct	Correct	Correct	
+R01128	2026	Image	Arbitrated	Abstract, record or partial text only	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R01207	2026	Lesion	Arbitrated	Abstract, record or partial text only	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R01345	2026	Lesion	Arbitrated	Abstract, record or partial text only	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R01479	2020	Voxel	Two passes agreed	Full text or author manuscript	Uncertain	Correct	Correct	Correct	Correct	Correct	Correct	Correct	
+R01483	2018	Patient	Two passes agreed	Full text or author manuscript	Uncertain	Correct	Correct	Correct	Correct	Correct	Correct	Correct	
+R01500	2026	Voxel	Arbitrated	Abstract, record or partial text only	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R01536	2026	Image	Arbitrated	Abstract, record or partial text only	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R01538	2025	Image	Arbitrated	Abstract, record or partial text only	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R01543	2025	Voxel	Two passes agreed	Full text or author manuscript	Uncertain	Correct	Correct	Correct	Correct	Correct	Correct	Correct	
+R01682	2021	Patient	Arbitrated	Abstract, record or partial text only	Uncertain	Correct	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R01780	2026	Voxel	Arbitrated	Full text or author manuscript	Uncertain	Uncertain	Correct	Correct	Correct	Uncertain	Uncertain	Correct	
+R01787	2023	Lesion	Arbitrated	Abstract, record or partial text only	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Correct	Uncertain	
+R01788	2026	Lesion	Arbitrated	Full text or author manuscript	Uncertain	Correct	Correct	Correct	Correct	Correct	Correct	Correct	
+R01792	2026	Voxel	Two passes agreed	Full text or author manuscript	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R01863	2023	Patient	Two passes agreed	Abstract, record or partial text only	Uncertain	Correct	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R01904	2026	Voxel	Two passes agreed	Full text or author manuscript	Uncertain	Uncertain	Correct	Correct	Correct	Correct	Uncertain	Correct	
+R01977	2021	Voxel	Two passes agreed	Full text or author manuscript	Uncertain	Incorrect	Correct	Correct	Correct	Correct	Correct	Correct	Analyses per-volume ECE and volume deviation: at least image or patient level
+R02123	2020	Lesion	Arbitrated	Abstract, record or partial text only	Uncertain	Correct	Correct	Uncertain	Uncertain	Uncertain	Uncertain	Correct	
+R02170	2024	Lesion	Two passes agreed	Abstract, record or partial text only	Uncertain	Correct	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	Uncertain	
+R04957	2025	Lesion	Two passes agreed	Full text or author manuscript	Uncertain	Correct	Correct	Incorrect	Correct	Correct	Correct	Uncertain	IoU thresholds were reported (mAP@[.5:.95], AP@.5, AP@.75); AI recorded none
+R05144	2025	Patient	Arbitrated	Full text or author manuscript	Uncertain	Correct	Correct	Correct	Correct	Correct	Correct	Correct	
+R05188	2026	Voxel	Arbitrated	Full text or author manuscript	Uncertain	Incorrect	Correct	Correct	Correct	Correct	Correct	Correct	Per-examination volume credible-interval coverage: at least image (3D examination) level
+W0133	2019	Voxel	Arbitrated	Full text or author manuscript	Uncertain	Incorrect	Correct	Correct	Correct	Correct	Correct	Correct	Structure-level volume variation against 1-Dice: at least image level
+W0249	2026	Lesion	Arbitrated	Full text or author manuscript	Uncertain	Correct	Correct	Correct	Correct	Uncertain	Correct	Correct	
